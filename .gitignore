@@ -2,6 +2,7 @@
 /phpunit.xml
 /var/*
 !/var/cache
+/nbproject/*
 /var/cache/*
 !var/cache/.gitkeep
 !/var/logs
